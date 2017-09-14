@@ -1,0 +1,3 @@
+rootProject.name = 'FriendwatchProject'
+
+include ':app'
